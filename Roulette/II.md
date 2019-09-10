@@ -22,7 +22,7 @@
 * Beastie Boys: License to Ill
 * Led Zeppelin: Houses of the Holy
 * Led Zeppelin: 1
-* #50 …
+* Billy Joel: The Stranger
 * …
 
 ### TODO: make it a pretty table
