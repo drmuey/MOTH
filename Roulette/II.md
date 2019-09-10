@@ -6,26 +6,26 @@
 
 **Albums**
 
-• AC/DC - back in black
-• Usher - Confessions
-• Kenny G - Breathless
-• Bruce Springsteen - Born on the USA
-• The bodyguard Soundtrack
-• Guns and Roses - Appetite for Destruction
-• TLC - CRazySexyCool
-• Phill Collins - No Jacket Required
-• Lincoln Park: Hybrid Theory
-• Adele: 21
-• Creed: Human Clay
-• Dixie Chicks: Fly
-• No Doubt: Tragic Kingdom
-• Beastie Boys: License to Ill
-• Led Zeppelin: Houses of the Holy
-• Led Zeppelin: 1
-• #50 …
-• …
+* AC/DC - back in black
+* Usher - Confessions
+* Kenny G - Breathless
+* Bruce Springsteen - Born on the USA
+* The bodyguard Soundtrack
+* Guns and Roses - Appetite for Destruction
+* TLC - CRazySexyCool
+* Phill Collins - No Jacket Required
+* Lincoln Park: Hybrid Theory
+* Adele: 21
+* Creed: Human Clay
+* Dixie Chicks: Fly
+* No Doubt: Tragic Kingdom
+* Beastie Boys: License to Ill
+* Led Zeppelin: Houses of the Holy
+* Led Zeppelin: 1
+* #50 …
+* …
 
-# TODO: make it a pretty table
+### TODO: make it a pretty table
 
 Date|Who|№|Album
 ----|---|-|-----
