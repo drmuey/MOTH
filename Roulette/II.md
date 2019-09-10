@@ -12,7 +12,7 @@
 * Bruce Springsteen - Born on the USA
 * The bodyguard Soundtrack
 * Guns and Roses - Appetite for Destruction
-* TLC - CRazySexyCool
+* TLC - CrazySexyCool
 * Phill Collins - No Jacket Required
 * Lincoln Park: Hybrid Theory
 * Adele: 21
