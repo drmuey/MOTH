@@ -25,7 +25,7 @@
 * Billy Joel: The Stranger
 * Whitney Houstin: Whitney Houston
 * NSYNC: 'N Sync
-* Shania Twain: Up! (Red and Blue versions)
+* Shania Twain: Up! (Red and Green versions)
 * …
 
 ### TODO: make it a pretty table
