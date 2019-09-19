@@ -2,7 +2,7 @@
 
 **Chosen numbers** (including [Round 1](I.md)): 
 
-1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 17, 18, 19, 20, 21, 23, 24, 25, 27, 28, 29, 31, 33, 38, 39, 40, 41, 42, 44, 45, 47, 50, 52, 54, 55, 57, 59, 63, 64, 65, 67, 70, 72, 73, 75
+1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 16, 17, 18, 19, 20, 21, 23, 24, 25, 27, 28, 29, 31, 33, 35, 37, 38, 39, 40, 41, 42, 44, 45, 47, 50, 52, 54, 55, 57, 59, 63, 64, 65, 67, 70, 72, 73, 75
 
 **Albums**
 
@@ -26,6 +26,8 @@
 * Whitney Houstin: Whitney Houston
 * NSYNC: 'N Sync
 * Shania Twain: Up! (Red and Green versions)
+* Britney Spears: one more time
+* the eagles: hotel California
 * …
 
 ### TODO: make it a pretty table
